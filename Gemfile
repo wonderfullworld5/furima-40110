@@ -83,6 +83,6 @@ end
 gem 'pg'
 gem 'devise'
 gem 'activerecord-session_store'
-
+gem 'active_hash'
 
 
